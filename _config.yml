@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://partiallapplied.com/
+title: Partially Applied
+subtitle: Musing on abstractions
+author: Louis J Scoras
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
@@ -49,7 +49,7 @@ default_asides: [asides/recent_posts.html, asides/twitter.html, asides/delicious
 # ----------------------- #
 
 # Twitter
-twitter_user:
+twitter_user: ljsc
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -69,7 +69,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: partiallyapplied
 
 # Google Analytics
 google_analytics_tracking_id:
