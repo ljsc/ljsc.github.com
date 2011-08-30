@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Partially Applied</title>
-  <link href="http://partiallapplied.com//atom.xml" rel="self"/>
-  <link href="http://partiallapplied.com//"/>
-  <updated>2011-08-27T16:39:46-04:00</updated>
-  <id>http://partiallapplied.com//</id>
+  <link href="http://partiallapplied.com/atom.xml" rel="self"/>
+  <link href="http://partiallapplied.com/"/>
+  <updated>2011-08-30T19:47:51-04:00</updated>
+  <id>http://partiallapplied.com/</id>
   <author>
     <name>Louis J Scoras</name>
     
@@ -14,9 +14,9 @@
   
   <entry>
     <title>Ruby Methods &amp; Multiple Blocks</title>
-    <link href="http://partiallapplied.com//blog/2011/08/06/ruby-methods-and-multiple-blocks/"/>
+    <link href="http://partiallapplied.com/blog/2011/08/06/ruby-methods-and-multiple-blocks/"/>
     <updated>2011-08-06T19:35:00-04:00</updated>
-    <id>http://partiallapplied.com//blog/2011/08/06/ruby-methods-and-multiple-blocks</id>
+    <id>http://partiallapplied.com/blog/2011/08/06/ruby-methods-and-multiple-blocks</id>
     <content type="html">&lt;h1&gt;Higher order methods?&lt;/h1&gt;
 
 &lt;p&gt;One of the really nice things about working with Ruby has always been how easy
